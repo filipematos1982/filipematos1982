@@ -53,7 +53,8 @@ I'm a junior software developer who recently completed an intensive 14-week cour
    ![Trello Icon](https://img.icons8.com/color/48/000000/trello.png)
 
 
-  📚 ###Education
+  ## 📚 Education
+
 
     Codeforall - Intensive Software Development Course (14 weeks)
 

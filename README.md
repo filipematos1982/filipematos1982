@@ -24,7 +24,7 @@ I'm a junior software developer who recently completed an intensive 14-week cour
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" alt="Maven Icon" width="48" height="48"/>
 ![Apache Tomcat Icon](https://img.icons8.com/color/48/000000/tomcat.png)
 ![MySQL Icon](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="Hibernate Icon" width="48" height="48"/>
           
    
 

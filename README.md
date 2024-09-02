@@ -46,7 +46,7 @@ I'm a junior software developer who recently completed an intensive 14-week cour
    ![Git Icon](https://img.icons8.com/color/48/000000/git.png)
    ![GitHub Icon](https://img.icons8.com/fluency/48/000000/github.png)
    ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png)
-   ![Postman Icon](https://img.icons8.com/fluency/48/000000/postman-api.png)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-plain.svg" alt="Postman Icon" width="48" height="48"/>
    ![Trello Icon](https://img.icons8.com/color/48/000000/trello.png)
 
 

@@ -21,7 +21,7 @@ I'm a junior software developer who recently completed an intensive 14-week cour
 ![Spring Icon](https://img.icons8.com/color/48/000000/spring-logo.png)
 ![Apache Icon](https://img.icons8.com/dusk/48/000000/apache.png)
 ![Apache Ant Icon](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-apache-ant-logo-an-open-source-java-library-and-command-line-tool-used-for-software-build-automation-logo-filled-tal-revivo.png)
-![Apache Maven Icon](https://img.icons8.com/color/48/000000/apache-maven.png)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original-wordmark.svg" alt="Maven Icon" width="48" height="48"/>
 ![Apache Tomcat Icon](https://img.icons8.com/color/48/000000/tomcat.png)
 ![MySQL Icon](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
 ![Hibernate Icon](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hibernate-an-object-relational-mapping-tool-for-the-java-programming-language-logo-shadow-tal-revivo.png)

@@ -12,7 +12,7 @@ I'm a junior software developer who recently completed an intensive 14-week cour
 
 🚀 Tech Stack:
    
-    ### Backend
+ ### Backend
 
 ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
 ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
@@ -25,6 +25,8 @@ I'm a junior software developer who recently completed an intensive 14-week cour
 ![Apache Tomcat Icon](https://img.icons8.com/color/48/000000/tomcat.png)
 ![MySQL Icon](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
 ![Hibernate Icon](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hibernate-an-object-relational-mapping-tool-for-the-java-programming-language-logo-shadow-tal-revivo.png)
+   
+
 
 ### Frontend
 

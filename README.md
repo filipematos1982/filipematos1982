@@ -32,6 +32,7 @@ I'm a junior software developer who recently completed an intensive 14-week cour
 
 ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
 ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5--v1.png)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" alt="TypeScript Icon" width="48" height="48"/>
 ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript--v1.png)
 ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png)
 ![Thymeleaf Icon](https://img.icons8.com/color/48/000000/thymeleaf.png)
@@ -61,6 +62,7 @@ I'm a junior software developer who recently completed an intensive 14-week cour
 
 
 🎯 Interests
+
     . Software development
     . Continuous learning in new technologies
     . Fullstack development 

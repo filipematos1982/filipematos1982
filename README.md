@@ -1,4 +1,5 @@
-💫 ### About Me
+💫 <p style="font-size: 36px; font-weight: bold;">💫 About Me</p>
+
  
  Hi, I'm Emanuel Matos
 

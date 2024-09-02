@@ -11,29 +11,29 @@ I'm a junior software developer who recently completed an intensive 14-week cour
 . Read
 
 🚀 Tech Stack:
+   
+    ### Backend
 
+![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![Express.js Icon](https://img.icons8.com/color/48/000000/express.png)
+![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png)
+![Spring Icon](https://img.icons8.com/color/48/000000/spring-logo.png)
+![Apache Icon](https://img.icons8.com/dusk/48/000000/apache.png)
+![Apache Ant Icon](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-apache-ant-logo-an-open-source-java-library-and-command-line-tool-used-for-software-build-automation-logo-filled-tal-revivo.png)
+![Apache Maven Icon](https://img.icons8.com/color/48/000000/apache-maven.png)
+![Apache Tomcat Icon](https://img.icons8.com/color/48/000000/tomcat.png)
+![MySQL Icon](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
+![Hibernate Icon](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hibernate-an-object-relational-mapping-tool-for-the-java-programming-language-logo-shadow-tal-revivo.png)
 
-   ### Backend
+### Frontend
 
-    ![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
-    ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
-    ![Express.js Icon](https://img.icons8.com/color/48/000000/express.png)
-    ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png)
-    ![Spring Icon](https://img.icons8.com/color/48/000000/spring-logo.png)
-    ![Apache Icon](https://img.icons8.com/color/48/000000/apache.png)
-    ![Apache Ant Icon](https://img.icons8.com/fluency/48/000000/ant.png)
-    ![Apache Maven Icon](https://img.icons8.com/color/48/000000/apache-maven.png)
-    ![Apache Tomcat Icon](https://img.icons8.com/color/48/000000/tomcat.png)
-    ![MySQL Icon](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
-    ![Hibernate Icon](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hibernate-an-object-relational-mapping-tool-for-the-java-programming-language-logo-shadow-tal-revivo.png)
+![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
+![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Thymeleaf Icon](https://img.icons8.com/color/48/000000/thymeleaf.png)
 
-   ### Frontend
-
-    ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
-    ![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5--v1.png)
-    ![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript--v1.png)
-    ![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png)
-    ![Thymeleaf Icon](https://img.icons8.com/color/48/000000/thymeleaf.png)
 
   ### Others
 

@@ -12,13 +12,15 @@ Hobbies
 🚀 Tech Stack:
 
     Programming Languages: 
-    Java( <i class="devicon-java-plain-wordmark colored"></i>) 
-            
-    JavaScript
-
-
+    ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
     
-    Frontend Development: CSS3 HTML5 JavaScript Bootstrap Thymeleaf 
+    ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+
+   
+    Frontend Development:  JavaScript Bootstrap Thymeleaf 
+
+    ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+    ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
 
 
     

@@ -13,7 +13,9 @@ Hobbies
 
     Programming Languages: Java, JavaScript
     
-    Frontend Development: CSS3 HTML5 JavaScript Bootstrap Thymeleaf
+    Frontend Development: CSS3 HTML5 JavaScript Bootstrap Thymeleaf ![image](https://github.com/user-attachments/assets/2d3f057f-bc25-4af7-b200-53e78e61e118)
+
+
     
     Backend Development: Java Express.js NodeJS Spring Apache Apache Ant Apache Maven Apache Tomcat MySQL Hibernate
     

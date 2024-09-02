@@ -1,16 +1,17 @@
-💫 About Me
+💫 ### About Me
+ 
  Hi, I'm Emanuel Matos
 
 I'm a junior software developer who recently completed an intensive 14-week course at Codeforall. I have developed strong programming skills with a focus on Java and JavaScript, and I'm excited to apply my knowledge to real-world projects while continuing to learn and grow in the field of software development.
 
-   Hobbies
+  ### Hobbies
    
 . Football
 . Crossfit
 . Movies
 . Read
 
-🚀 Tech Stack:
+🚀 ### Tech Stack:
    
  ### Backend
 
@@ -51,24 +52,24 @@ I'm a junior software developer who recently completed an intensive 14-week cour
    ![Trello Icon](https://img.icons8.com/color/48/000000/trello.png)
 
 
-  📚 Education
+  📚 ###Education
 
     Codeforall - Intensive Software Development Course (14 weeks)
 
 
-🌟 Projects
+🌟 ###Projects
 
 (Here you can add links to specific GitHub projects or describe projects you created during the course. If you don't have public projects yet, you can leave this section for future updates.)
 
 
-🎯 Interests
+🎯 ###Interests
 
     . Software development
     . Continuous learning in new technologies
     . Fullstack development 
     . Contributing to open-source projects
 
-🌐 Lets get in touch!
+🌐 ###Lets get in touch!
 
     LinkedIn: https://www.linkedin.com/in/emanuelfilipe/
     Email: filipematos773@gmail.com

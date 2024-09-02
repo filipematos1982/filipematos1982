@@ -11,7 +11,10 @@ Hobbies
 
 🚀 Tech Stack:
 
-    Programming Languages: Java, JavaScript![filipematos](https://github.com/user-attachments/assets/f60c0f95-c621-4a79-9a49-e4d68e277d1d)
+    Programming Languages: 
+    Java( <i class="devicon-java-plain-wordmark colored"></i>) 
+            
+    JavaScript
 
 
     

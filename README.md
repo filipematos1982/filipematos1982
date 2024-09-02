@@ -3,7 +3,8 @@
 
 I'm a junior software developer who recently completed an intensive 14-week course at Codeforall. I have developed strong programming skills with a focus on Java and JavaScript, and I'm excited to apply my knowledge to real-world projects while continuing to learn and grow in the field of software development.
 
-Hobbies
+   Hobbies
+   
 . Football
 . Crossfit
 . Movies
@@ -11,59 +12,62 @@ Hobbies
 
 🚀 Tech Stack:
 
-    Programming Languages: 
-    ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-    
-    ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+  ### Backend
 
-   
-    Frontend Development:
+![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
+![Express.js Icon](https://img.icons8.com/color/48/000000/express.png)
+![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png)
+![Spring Icon](https://img.icons8.com/color/48/000000/spring-logo.png)
+![Apache Icon](https://img.icons8.com/dusk/48/000000/apache.png)
+![Apache Ant Icon](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-apache-ant-logo-an-open-source-java-library-and-command-line-tool-used-for-software-build-automation-logo-filled-tal-revivo.png)
+![Apache Maven Icon](https://img.icons8.com/color/48/000000/apache-maven.png)
+![Apache Tomcat Icon](https://img.icons8.com/color/48/000000/tomcat.png)
+![MySQL Icon](https://img.icons8.com/fluency/48/000000/mysql-logo.png)
+![Hibernate Icon](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-hibernate-an-object-relational-mapping-tool-for-the-java-programming-language-logo-shadow-tal-revivo.png)
 
-    ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-    ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-    ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-    ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg)
-    
-    Backend Development: Java Express.js NodeJS Spring Apache Apache Ant Apache Maven Apache Tomcat MySQL Hibernate
+  ### Frontend
 
-    ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-    ![Express.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg)
-    ![NodeJS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
-    ![Spring](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg)
-    ![Apache](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg)
-    ![Maven](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg)
-    ![Tomcat](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg)
-    ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg)
+![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
+![HTML5 Icon](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![JavaScript Icon](https://img.icons8.com/color/48/000000/javascript--v1.png)
+![Bootstrap Icon](https://img.icons8.com/color/48/000000/bootstrap.png)
+![Thymeleaf Icon](https://img.icons8.com/color/48/000000/thymeleaf.png)
 
-    Version Control: Git GitHub NPM Adobe Photoshop Canva Blender Jira Postman Trello 
+### Others
 
-    ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-    ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg)
-    ![NPM](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg)
-    ![Adobe Photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg)
-    ![Blender](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg)
-    ![Jira](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg)
-    ![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg)
+![NPM Icon](https://img.icons8.com/color/48/000000/npm.png)
+![Adobe Photoshop Icon](https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png)
+![Canva Icon](https://img.icons8.com/fluency/48/000000/canva.png)
+![Blender Icon](https://img.icons8.com/color/48/000000/blender-3d.png)
+![Git Icon](https://img.icons8.com/color/48/000000/git.png)
+![GitHub Icon](https://img.icons8.com/fluency/48/000000/github.png)
+![Jira Icon](https://img.icons8.com/color/48/000000/jira.png)
+![Postman Icon](https://img.icons8.com/fluency/48/000000/postman-api.png)
+![Trello Icon](https://img.icons8.com/color/48/000000/trello.png)
 
 
 📚 Education
 
     Codeforall - Intensive Software Development Course (14 weeks)
 
+
 🌟 Projects
 
 (Here you can add links to specific GitHub projects or describe projects you created during the course. If you don't have public projects yet, you can leave this section for future updates.)
-🎯 Interests
 
-    Software development
-    Continuous learning in new technologies
-    Fullstack development 
-    Contributing to open-source projects
+
+🎯 Interests
+    . Software development
+    . Continuous learning in new technologies
+    . Fullstack development 
+    . Contributing to open-source projects
 
 🌐 Lets get in touch!
+
     LinkedIn: https://www.linkedin.com/in/emanuelfilipe/
     Email: filipematos773@gmail.com
-    whatsapp
+    whatsapp:
 
 
 

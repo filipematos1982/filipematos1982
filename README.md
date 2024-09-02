@@ -1,6 +1,5 @@
-💫 <p style="font-size 💯px; font-weight: bold;">💫 About Me</p>
+<p style="font-size: 50px; font-weight: bold;">💫 About Me</p>
 
- 
  Hi, I'm Emanuel Matos
 
 I'm a junior software developer who recently completed an intensive 14-week course at Codeforall. I have developed strong programming skills with a focus on Java and JavaScript, and I'm excited to apply my knowledge to real-world projects while continuing to learn and grow in the field of software development.

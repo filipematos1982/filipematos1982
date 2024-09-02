@@ -12,7 +12,8 @@ I'm a junior software developer who recently completed an intensive 14-week cour
 . Movies
 . Read
 
-🚀 # Tech Stack:
+**🚀 Tech Stack:**
+
    
  ### Backend
 

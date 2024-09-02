@@ -5,12 +5,14 @@
 
 I'm a junior software developer who recently completed an intensive 14-week course at Codeforall. I have developed strong programming skills with a focus on Java and JavaScript, and I'm excited to apply my knowledge to real-world projects while continuing to learn and grow in the field of software development.
 
+
   ### Hobbies
    
 . Football
 . Crossfit
 . Movies
 . Read
+
 
 **🚀 Tech Stack:**
 
@@ -29,8 +31,6 @@ I'm a junior software developer who recently completed an intensive 14-week cour
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original.svg" alt="Hibernate Icon" width="48" height="48"/>
           
    
-
-
 ### Frontend
 
 ![CSS3 Icon](https://img.icons8.com/color/48/000000/css3.png)
@@ -60,19 +60,19 @@ I'm a junior software developer who recently completed an intensive 14-week cour
     Codeforall - Intensive Software Development Course (14 weeks)
 
 
-🌟 ###Projects
+**🌟 Projects**
 
 (Here you can add links to specific GitHub projects or describe projects you created during the course. If you don't have public projects yet, you can leave this section for future updates.)
 
 
-🎯 ###Interests
+**🎯 Interests**
 
     . Software development
     . Continuous learning in new technologies
     . Fullstack development 
     . Contributing to open-source projects
 
-🌐 ###Lets get in touch!
+**🌐 Lets get in touch!**
 
     LinkedIn: https://www.linkedin.com/in/emanuelfilipe/
     Email: filipematos773@gmail.com

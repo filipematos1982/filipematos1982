@@ -19,7 +19,7 @@ I'm a junior software developer who recently completed an intensive 14-week cour
    
  ### Backend
 
-![C# Icon](https://img.icons8.com/color/48/000000/c-sharp-logo.png)
+
 ![Java Icon](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png)
 ![Express.js Icon](https://img.icons8.com/color/48/000000/express.png)
 ![NodeJS Icon](https://img.icons8.com/color/48/000000/nodejs.png)
@@ -44,9 +44,7 @@ I'm a junior software developer who recently completed an intensive 14-week cour
   ### Others
 
    ![NPM Icon](https://img.icons8.com/color/48/000000/npm.png)
-   ![Adobe Photoshop Icon](https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png)
    ![Canva Icon](https://img.icons8.com/fluency/48/000000/canva.png)
-   ![Blender Icon](https://img.icons8.com/color/48/000000/blender-3d.png)
    ![Git Icon](https://img.icons8.com/color/48/000000/git.png)
    ![GitHub Icon](https://img.icons8.com/fluency/48/000000/github.png)
    ![Jira Icon](https://img.icons8.com/color/48/000000/jira.png)
